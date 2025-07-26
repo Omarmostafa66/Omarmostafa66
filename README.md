@@ -85,6 +85,68 @@
 
 ---
 
+## 🏆 Certifications
+
+Here are some of the certifications I've earned:
+
+* **Introduction to Artificial Intelligence and Machine Learning with Quantum Computing Foundations** 🤖
+    * [cite_start]Issued by: Ministry of Youth and Sports, Egypt [cite: 1, 6, 7, 8, 9, 10, 11, 13]
+    * [cite_start]Instructor: Dr. Mona Hikal [cite: 1, 14]
+    * <p align="center">
+        <a href="http://googleusercontent.com/file_content/0" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYyaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
+        </a>
+        </p>
+
+<br>
+
+* **Intro to Software Engineering Diploma** 💻
+    * [cite_start]Issued by: MEC Academy [cite: 5]
+    * [cite_start]Instructors: Zeyad Farag (Instructor), Mohamed Khalaf (CEO) [cite: 5]
+    * <p align="center">
+        <a href="http://googleusercontent.com/file_content/1" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYyaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
+        </a>
+        </p>
+
+<br>
+
+* **Full Stack Web Development Using Python (120 hrs.)** 🐍
+    * [cite_start]Issued by: Information Technology Institute (ITI) [cite: 2]
+    * [cite_start]Date: August 24, 2024 to September 19, 2024 [cite: 2]
+    * [cite_start]Courses: Object-Oriented Programming using Python, Python Frameworks (Flask, Django), Clean Code Technologies, Introduction to PostgreSQL Database [cite: 2]
+    * <p align="center">
+        <a href="http://googleusercontent.com/file_content/2" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
+        </a>
+        </p>
+
+<br>
+
+* **2024 ICPC ECPC Qualifications Collegiate Programming Contest Day 4 - Honorable Mention** 🏅
+    * [cite_start]Issued by: ICPC Foundation [cite: 3, 4]
+    * [cite_start]Date: July 23, 2024 [cite: 3, 4]
+    * [cite_start]Team Members: Youssef Atef Tayh Noureldin, Omar Yasser Sayed Shafik, Omar Mostafa Abdsttar [cite: 3]
+    * [cite_start]Coach: Hossam Abd El-hakim said [cite: 3]
+    * <p align="center">
+        <a href="http://googleusercontent.com/file_content/3" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
+        </a>
+        </p>
+
+<br>
+
+* **Artificial Intelligence Ambassadors Program** 🧠
+    * Issued by: National Telecommunication Institute (NTI) in collaboration with Engineers for a Sustainable Egypt (ESE)
+    * <p align="center">
+        <a href="http://googleusercontent.com/file_content/4" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zz48cGF0aCBkPSJNMTAgNkgxMmEyIDIgMCAwIDEgMiAyIDIgMiAwIDAgMS0yIDJ2NmgtMnYyaDZDMTguMTA0NiAxNiAxOSAxNS4xMDQ2IDE5IDE0VjE0YTIgMiAwIDAgMC0yIDJWMTRhMiAyIDAgMCAwLTItMlYxMmgydjJoLTR2N2gtNHYtNGMyLjIwOTEgMCA0LS40NDc3MiA0LTJWMTRoLTIyVjdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTItMi0yWjEwIDFIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTItMlY3aC0yejIiLz48L3N2Zz4=" />
+        </a>
+        </p>
+<br>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -110,23 +172,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmarMostafa7&color=brightgreen" alt="Profile Views">
 </p>
-
----
-
-## 🎖️ Certifications
-
-Here are some of my key certifications and achievements:
-
-* [cite_start]**Full Stack Web Development Using Python (120 hrs.)** [cite: 1]
-    * [cite_start]**Issued by:** [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home) [cite: 1]
-    * [cite_start]**Details:** This intensive course covered Object-Oriented Programming using Python, Python Frameworks (Flask, Django), Client-Side Technologies, and an Introduction to PostgreSQL Database. [cite: 1]
-* [cite_start]**Artificial Intelligence Ambassadors Program** [cite: 3]
-    * [cite_start]**Issued by:** [National Telecommunication Institute (NTI)](https://nti.gov.eg/) in collaboration with Engineers For A Sustainable Egypt (ESE). [cite: 3]
-* [cite_start]**Honorable Mention - The 2024 ICPC ECPC Qualifications Collegiate Programming Contest Day 4** [cite: 4, 5]
-    * [cite_start]**Issued by:** ICPC Foundation in collaboration with Helwan National University. [cite: 4, 5]
-* [cite_start]**Certificate of Completion - INTRO TO SOFTWARE ENGINEERING DIPLOMA** [cite: 2]
-    * [cite_start]**Issued by:** MEC Academy. [cite: 2]
-* [cite_start]**The Comprehensive Course: Introduction to Artificial Intelligence and Machine Learning with Quantum Computing Foundations** [cite: 6]
-    * [cite_start]**Issued by:** Shabab Mobtakeron (Youth Innovators Initiative) under the Ministry of Youth and Sports. [cite: 6]
-
----
