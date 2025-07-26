@@ -86,7 +86,7 @@ Instructors: Dr. Mona Hikal, Eng. Ali Ehab
 Description: This comprehensive course provided a solid foundation in Artificial Intelligence and Machine Learning, including an introduction to the principles of Quantum Computing. It covered key concepts and practical applications, enhancing my understanding of cutting-edge technologies.
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1CWnQAeGmT3TbHIesjp0KoXJ7GpVv-Nm3/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1wT5n4JIN58snlKwWsLvZMbFCG5rBtNAI/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
 </a>
 </p>
@@ -100,7 +100,7 @@ Instructors: Zeyad Farag (Instructor), Mohamed Khalaf (CEO)
 Description: This diploma provided an in-depth introduction to software engineering principles, covering various aspects of software development, design patterns, and best practices. It significantly enhanced my skills in building robust and scalable software solutions.
 
 <p align="center">
-<a href="[تمت إزالة عنوان URL غير صالح] Image 2025-05-05 at 15.39.13_361da9d1.jpg" target="_blank">
+<a href="https://drive.google.com/file/d/1CWnQAeGmT3TbHIesjp0KoXJ7GpVv-Nm3/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
 </a>
 </p>
@@ -116,7 +116,7 @@ Courses: Object-Oriented Programming using Python, Python Frameworks (Flask, Dja
 Description: This intensive 120-hour course provided hands-on experience in full-stack web development using Python. It covered essential topics such as OOP, popular Python frameworks like Flask and Django, clean code practices, and database management with PostgreSQL.
 
 <p align="center">
-<a href="[تمت إزالة عنوان URL غير صالح]" target="_blank">
+<a href="https://drive.google.com/file/d/1h4PGPLSiXgvbroENKEhczXhfnBNc2O1C/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLmorZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
 </a>
 </p>
@@ -134,7 +134,7 @@ Coach: Hossam Abd El-hakim said
 Description: Achieved an Honorable Mention in the prestigious ICPC ECPC Qualifications, demonstrating strong problem-solving skills, algorithmic thinking, and teamwork in a competitive programming environment.
 
 <p align="center">
-<a href="[تمت إزالة عنوان URL غير صالح] 2025-02-11 004732.png-a29da7db-7dbc-4ae9-8796-fcdba6f99c2f" target="_blank">
+<a href="https://drive.google.com/file/d/1m_prA51PPFql9Z4kCMPpZgFXFge1IEQI/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
 </a>
 </p>
@@ -146,7 +146,7 @@ Issued by: National Telecommunication Institute (NTI) in collaboration with Engi
 Description: Participated in the AI Ambassadors Program, gaining practical knowledge and insights into the latest advancements and applications of Artificial Intelligence, and contributing to the promotion of AI literacy.
 
 <p align="center">
-<a href="[تمت إزالة عنوان URL غير صالح]" target="_blank">
+<a href="https://drive.google.com/file/d/1cS3UP2uONPTEdIL3YmwSjV_Upny4-4eM/view?usp=drive_link">
 <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc2ZnPg==" />
 </a>
 </p>
