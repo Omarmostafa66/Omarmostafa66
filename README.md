@@ -115,11 +115,18 @@
 
 ## 🎖️ Certifications
 
-* [cite_start]**Full Stack Web Development Using Python (120 hrs.)** - Issued by [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home) [cite: 4]
-    * [cite_start]This course included: Object-Oriented Programming using Python, Python Frameworks (Flask, Django), Client-Side Technologies, and Introduction to PostgreSQL Database. [cite: 4]
-* [cite_start]**Honorable Mention - The 2024 ICPC ECPC Qualifications Collegiate Programming Contest Day 4** - Issued by ICPC Foundation in collaboration with Helwan National University [cite: 2, 5]
-* [cite_start]**Certificate of Completion - INTRO TO SOFTWARE ENGINEERING DIPLOMA** - Issued by MEC Academy [cite: 3]
-* [cite_start]**Artificial Intelligence Ambassadors Program** - Issued by [National Telecommunication Institute (NTI)](https://nti.gov.eg/) in collaboration with Engineers For A Sustainable Egypt (ESE) [cite: 1]
-* [cite_start]**The Comprehensive Course: Introduction to Artificial Intelligence and Machine Learning with Quantum Computing Foundations** - Issued by Shabab Mobtakeron (Youth Innovators Initiative) under the Ministry of Youth and Sports [cite: 6]
+Here are some of my key certifications and achievements:
+
+* [cite_start]**Full Stack Web Development Using Python (120 hrs.)** [cite: 1]
+    * [cite_start]**Issued by:** [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home) [cite: 1]
+    * [cite_start]**Details:** This intensive course covered Object-Oriented Programming using Python, Python Frameworks (Flask, Django), Client-Side Technologies, and an Introduction to PostgreSQL Database. [cite: 1]
+* [cite_start]**Artificial Intelligence Ambassadors Program** [cite: 3]
+    * [cite_start]**Issued by:** [National Telecommunication Institute (NTI)](https://nti.gov.eg/) in collaboration with Engineers For A Sustainable Egypt (ESE). [cite: 3]
+* [cite_start]**Honorable Mention - The 2024 ICPC ECPC Qualifications Collegiate Programming Contest Day 4** [cite: 4, 5]
+    * [cite_start]**Issued by:** ICPC Foundation in collaboration with Helwan National University. [cite: 4, 5]
+* [cite_start]**Certificate of Completion - INTRO TO SOFTWARE ENGINEERING DIPLOMA** [cite: 2]
+    * [cite_start]**Issued by:** MEC Academy. [cite: 2]
+* [cite_start]**The Comprehensive Course: Introduction to Artificial Intelligence and Machine Learning with Quantum Computing Foundations** [cite: 6]
+    * [cite_start]**Issued by:** Shabab Mobtakeron (Youth Innovators Initiative) under the Ministry of Youth and Sports. [cite: 6]
 
 ---
