@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgM1oJ8M1hOQ/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/3o7bu3qW8M2I2vQeXe/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" />
 </p>
 
 ---
@@ -57,19 +57,29 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><b>OOP Concepts</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><b>OOP</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><b>Data Structures</b></td>
   </tr>
 </table>
 
-### 🔬 Fields of Interest
+---
+
+## 🔬 Fields of Interest
 
 <table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/><b>Machine Learning</b></td>
-    <td align="center"><span style="font-size:40px;">🧠</span><br/><b>Artificial Intelligence</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><b>Data Analysis</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>Full Stack</b></td>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/><b>Machine Learning</b>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50"/><br/><b>Artificial Intelligence</b>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><b>Data Analysis</b>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>Full Stack</b>
+    </td>
   </tr>
 </table>
 
