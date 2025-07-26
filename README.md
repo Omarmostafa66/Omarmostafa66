@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="OOP Concept" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Data Structures / Version Control" />
 
-> مفيش أيقونة مباشرة لـ "OOP" أو "Data Structures"، فبنستخدم أقرب تمثيل (زي Git أو لغة OOP).
+
 
 ---
 
@@ -55,7 +55,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="Machine Learning" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Data Analysis" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="Full Stack Development" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brain/brain-original.svg" width="40" title="Artificial Intelligence" />
+<img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="36" title="Artificial Intelligence" />
+
 ## 📈 GitHub Stats
 
 <p align="center">
