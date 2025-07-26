@@ -86,7 +86,7 @@ Instructors: Dr. Mona Hikal, Eng. Ali Ehab
 Description: This comprehensive course provided a solid foundation in Artificial Intelligence and Machine Learning, including an introduction to the principles of Quantum Computing. It covered key concepts and practical applications, enhancing my understanding of cutting-edge technologies.
 
 <p align="center">
-<a href="[تمت إزالة عنوان URL غير صالح] mostafa abdsttar ali .pdf" target="_blank">
+<a href="https://drive.google.com/file/d/1CWnQAeGmT3TbHIesjp0KoXJ7GpVv-Nm3/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
 </a>
 </p>
