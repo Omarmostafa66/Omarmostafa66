@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Omar Mostafa</h1>
 
 <p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=OmarMostafa7&theme=radical" />
+  <img src="https://i.imgur.com/qeJ6kXH.png" alt="Omar Mostafa Banner" width="100%" />
 </p>
 
 <p align="center">
