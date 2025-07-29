@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Omar Mostafa</h1>
 
 <p align="center">
+  <img src="https://readme-hero.vercel.app/api?username=OmarMostafa7&theme=radical" />
+</p>
+
+<p align="center">
 <strong>AI & Data Science Student</strong> • <strong>Full Stack Developer</strong> • <strong>Machine Learning Enthusiast</strong>
 </p>
 
@@ -9,38 +13,41 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" />
 </p>
 
-💡 About Me
-🎓 I'm currently pursuing a degree in AI & Data Science at Helwan National University.
+---
 
-🚀 I enjoy solving real-world problems using code and building intelligent systems.
+## 💡 About Me
+- 🎓 I'm currently pursuing a degree in **AI & Data Science** at **Helwan National University**.
+- 🚀 I enjoy solving real-world problems using code and building intelligent systems.
+- 📊 Passionate about **Machine Learning**, **Software Development**, and **Data-Driven Solutions**.
+- 💼 Currently interning at **NTG** and enhancing my ML skills at **NTI**.
+- 🌱 I'm always learning and open to exciting **internships or full-time roles**.
 
-📊 Passionate about Machine Learning, Software Development, and Data-Driven Solutions.
+---
 
-💼 Currently interning at NTG and enhancing my ML skills at NTI.
+## 🛠️ Tech Stack
 
-🌱 I'm always learning and open to exciting internships or full-time roles.
-
-🛠️ Tech Stack
-👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><b>Python</b></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/><b>Java</b></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/><b>JavaScript</b></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/><b>C++</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><b>C#</b></td>
 </tr>
 </table>
 
-🌐 Web Development
+### 🌐 Web Development
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/><b>HTML5</b></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/><b>CSS3</b></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/><b>Django</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>React</b></td>
 </tr>
 </table>
 
-🗄️ Databases
+### 🗄️ Databases
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/><b>PostgreSQL</b></td>
@@ -48,15 +55,18 @@
 </tr>
 </table>
 
-🧠 Core Skills
+### 🧠 Core Skills
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><b>OOP</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><b>Data Structures</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><b>Git</b></td>
+<td align="center">🧠<br/><b>Data Structures</b></td>
+<td align="center">⚙️<br/><b>OOP</b></td>
 </tr>
 </table>
 
-🔬 Fields of Interest
+---
+
+## 🔬 Fields of Interest
 <table>
 <tr align="center">
 <td>
@@ -74,94 +84,64 @@
 </tr>
 </table>
 
-🏆 Certifications
-Here are some of the certifications I've earned:
+---
 
-Introduction to Artificial Intelligence and Machine Learning with Quantum Computing Foundations 🤖
+## 🏆 Certifications
 
-Issued by: Ministry of Youth and Sports, Egypt
+### 🤖 Introduction to Artificial Intelligence and Machine Learning with Quantum Computing Foundations  
+Issued by: Ministry of Youth and Sports, Egypt  
+[🔗 View Certificate](https://drive.google.com/file/d/1wT5n4JIN58snlKwWsLvZMbFCG5rBtNAI/view?usp=drive_link)
 
-Instructors: Dr. Mona Hikal, Eng. Ali Ehab
+---
 
-Description: This comprehensive course provided a solid foundation in Artificial Intelligence and Machine Learning, including an introduction to the principles of Quantum Computing. It covered key concepts and practical applications, enhancing my understanding of cutting-edge technologies.
+### 💻 Intro to Software Engineering Diploma  
+Issued by: MEC Academy  
+[🔗 View Certificate](https://drive.google.com/file/d/1CWnQAeGmT3TbHIesjp0KoXJ7GpVv-Nm3/view?usp=drive_link)
 
-<p align="center">
-<a href="https://drive.google.com/file/d/1wT5n4JIN58snlKwWsLvZMbFCG5rBtNAI/view?usp=drive_link" target="_blank">
-<img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
-</a>
-</p>
+---
 
-Intro to Software Engineering Diploma 💻
+### 🐍 Full Stack Web Development Using Python (120 hrs.)  
+Issued by: Information Technology Institute (ITI)  
+[🔗 View Certificate](https://drive.google.com/file/d/1h4PGPLSiXgvbroENKEhczXhfnBNc2O1C/view?usp=drive_link)
 
-Issued by: MEC Academy
+---
 
-Instructors: Zeyad Farag (Instructor), Mohamed Khalaf (CEO)
+### 🏅 2024 ICPC ECPC Qualifications - Honorable Mention  
+Issued by: ICPC Foundation  
+[🔗 View Certificate](https://drive.google.com/file/d/1m_prA51PPFql9Z4kCMPpZgFXFge1IEQI/view?usp=drive_link)
 
-Description: This diploma provided an in-depth introduction to software engineering principles, covering various aspects of software development, design patterns, and best practices. It significantly enhanced my skills in building robust and scalable software solutions.
+---
 
-<p align="center">
-<a href="https://drive.google.com/file/d/1CWnQAeGmT3TbHIesjp0KoXJ7GpVv-Nm3/view?usp=drive_link" target="_blank">
-<img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
-</a>
-</p>
+### 🧠 Artificial Intelligence Ambassadors Program  
+Issued by: NTI & Engineers for a Sustainable Egypt (ESE)  
+[🔗 View Certificate](https://drive.google.com/file/d/1cS3UP2uONPTEdIL3YmwSjV_Upny4-4eM/view?usp=drive_link)
 
-Full Stack Web Development Using Python (120 hrs.) 🐍
+---
 
-Issued by: Information Technology Institute (ITI)
+## 🎯 Goals
+- 🚀 Join a high-impact AI or Software Engineering internship  
+- 📚 Deepen my knowledge in Deep Learning and MLOps  
+- 🌍 Contribute to meaningful open-source projects  
+- 🎤 Share technical knowledge via blogs or talks  
 
-Date: August 24, 2024 to September 19, 2024
+---
 
-Courses: Object-Oriented Programming using Python, Python Frameworks (Flask, Django), Clean Code Technologies, Introduction to PostgreSQL Database
-
-Description: This intensive 120-hour course provided hands-on experience in full-stack web development using Python. It covered essential topics such as OOP, popular Python frameworks like Flask and Django, clean code practices, and database management with PostgreSQL.
-
-<p align="center">
-<a href="https://drive.google.com/file/d/1h4PGPLSiXgvbroENKEhczXhfnBNc2O1C/view?usp=drive_link" target="_blank">
-<img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLmorZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
-</a>
-</p>
-
-2024 ICPC ECPC Qualifications Collegiate Programming Contest Day 4 - Honorable Mention 🏅
-
-Issued by: ICPC Foundation
-
-Date: July 23, 2024
-
-Team Members: Youssef Atef Tayh Noureldin, Omar Yasser Sayed Shafik, Omar Mostafa Abdsttar
-
-Coach: Hossam Abd El-hakim said
-
-Description: Achieved an Honorable Mention in the prestigious ICPC ECPC Qualifications, demonstrating strong problem-solving skills, algorithmic thinking, and teamwork in a competitive programming environment.
-
-<p align="center">
-<a href="https://drive.google.com/file/d/1m_prA51PPFql9Z4kCMPpZgFXFge1IEQI/view?usp=drive_link" target="_blank">
-<img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc3ZnPg==" />
-</a>
-</p>
-
-Artificial Intelligence Ambassadors Program 🧠
-
-Issued by: National Telecommunication Institute (NTI) in collaboration with Engineers for a Sustainable Egypt (ESE)
-
-Description: Participated in the AI Ambassadors Program, gaining practical knowledge and insights into the latest advancements and applications of Artificial Intelligence, and contributing to the promotion of AI literacy.
-
-<p align="center">
-<a href="https://drive.google.com/file/d/1cS3UP2uONPTEdIL3YmwSjV_Upny4-4eM/view?usp=drive_link">
-<img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwIDZIMTJhMiAyIDAgMCAxIDIgMiAyIDAgMCAxLTIgMnY2aC0ydjJoNmMxLjEwNDYgMCAyLS44OTU0MyAyLTJWMTRhMiAyIDAgMCAwLTIgMnYtMmEyIDIgMCAwIDAtMi0ydjJoMnYiaC00djdoLTR2LTRhMiAyIDAgMCAxLTIgMnY0aC0yVjdjMC0xLjEwNDU3Ljg5NTQzLTIgMi0yaDR2MnptMCAwVjJoMiIvPjwvc2ZnPg==" />
-</a>
-</p>
-
-📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=OmarMostafa7&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMostafa7&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
-🤝 Connect with Me
+---
+
+## 🤝 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-mostafa-abdsttar-b2b72134b" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</p>
+
+<p align="center">
 <a href="mailto:omarmostafaabdsttar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
