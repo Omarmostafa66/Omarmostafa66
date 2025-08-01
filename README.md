@@ -1,21 +1,24 @@
+<!-- هيدر ثلاثي الأبعاد بستايل متدرج -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2E3192&height=150&section=header&text=👋%20Hi,%20I'm%20Omar%20Mostafa!&fontSize=40&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:6a00ff&height=150&section=header&text=👋%20Hi,%20I'm%20Omar%20Mostafa!&fontSize=40&fontColor=fff" />
 </p>
 
+<!-- كتابة متحركة -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=30" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A00FF&center=true&width=435&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Welcome+to+my+profile!"/>
 </p>
 
+<!-- GIFs خفيفة ولطيفة -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="170"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="170"/>
 </p>
 
 ---
 
 ## 💡 About Me
 - 🎓 AI & Data Science student at **Helwan National University**.
-- 🚀 Building intelligent systems & solving real-world problems.
+- 🚀 I love building intelligent systems & solving real-world problems.
 - 💼 Intern @ **NTG** | ML skills @ **NTI**.
 - 🌱 Always learning & open for exciting internships or full-time roles.
 
@@ -24,62 +27,44 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-<table>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/96/python.png"/><br/>Python</td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/java.png"/><br/>Java</td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/javascript.png"/><br/>JavaScript</td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/c-plus-plus-logo.png"/><br/>C++</td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/c-sharp-logo.png"/><br/>C#</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+</p>
 
 ### 🌐 Web Development
-<table>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/96/html-5.png"/><br/>HTML5</td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/css3.png"/><br/>CSS3</td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/django.png"/><br/>Django</td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/react.png"/><br/>React</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+</p>
 
 ### 🗄️ Databases
-<table>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/96/postgresql.png"/><br/>PostgreSQL</td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/mysql-logo.png"/><br/>MySQL</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</p>
 
 ### 🧠 Core Skills
-<table>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/96/git.png"/><br/>Git</td>
-<td align="center">🧠<br/>Data Structures</td>
-<td align="center">⚙️<br/>OOP</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <span title="Data Structures">🧠</span>
+  <span title="OOP">⚙️</span>
+</p>
 
 ---
 
 ## 🔬 Fields of Interest
-<table>
-<tr align="center">
-<td>
-<img src="https://img.icons8.com/fluency/96/tensorflow.png"/><br/>Machine Learning
-</td>
-<td>
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50"/><br/>Artificial Intelligence
-</td>
-<td>
-<img src="https://img.icons8.com/fluency/96/pandas.png"/><br/>Data Analysis
-</td>
-<td>
-<img src="https://img.icons8.com/fluency/96/react.png"/><br/>Full Stack
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="Machine Learning"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50" title="AI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Data Analysis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="Full Stack"/>
+</p>
 
 ---
 
@@ -105,9 +90,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OmarMostafa7&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMostafa7&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
-<!-- Snake contribution graph -->
+
+<!-- سنـيك كونتريبيوشن جراف -->
 <p align="center">
-  <img src="https://github.com/OmarMostafa7/OmarMostafa7/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/OmarMostafa7/OmarMostafa7/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
