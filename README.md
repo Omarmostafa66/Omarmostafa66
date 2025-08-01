@@ -24,7 +24,7 @@
 
 - 🎓 **AI & Data Science student** at **Helwan National University**  
 - 🚀 Building intelligent systems to solve real-world problems  
-- 💼 Intern @ NTG | ML @ NTI  
+- 💼 Training @ NTG | ML @ NTI  
 - 🌱 Always learning, always open for new opportunities
 
 ---
