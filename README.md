@@ -1,4 +1,4 @@
-<!-- هيدر ثلاثي الأبعاد بستايل متدرج -->
+<!-- هيدر متحرك عصري -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:6a00ff&height=150&section=header&text=👋%20Hi,%20I'm%20Omar%20Mostafa!&fontSize=40&fontColor=fff" />
 </p>
@@ -85,16 +85,11 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarMostafa7&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMostafa7&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
-
 <!-- سنـيك كونتريبيوشن جراف -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/OmarMostafa7/OmarMostafa7/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+<!-- لو مش شغال عندك سيبه أو احذفه مؤقتاً، لكن ده الكود الصحيح للـ Snake -->
 
 ---
 
