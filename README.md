@@ -70,3 +70,56 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmarMostafa7&color=brightgreen" alt="Profile Views">
 </p>
+
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/OmarMostafa7/SmartAttendance">
+    <img src="https://img.shields.io/badge/Smart%20Attendance%20System-%20AI%20Face%20Recognition%20%7C%20TensorFlow-blueviolet?style=flat-square" />
+  </a>
+  <a href="https://github.com/OmarMostafa7/ChatbotSupport">
+    <img src="https://img.shields.io/badge/Chatbot%20for%20Support-NLP%20%7C%20Dialogflow-brightgreen?style=flat-square" />
+  </a>
+</p>
+
+- [**Smart Attendance System**](https://github.com/OmarMostafa7/SmartAttendance)  
+  نظام حضور ذكي يعتمد على الذكاء الاصطناعي والتعرف على الوجوه لتسجيل حضور الطلبة تلقائيًا.  
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+
+- [**Chatbot for Customer Support**](https://github.com/OmarMostafa7/ChatbotSupport)  
+  شات بوت متقدم لخدمة العملاء باستخدام تقنيات NLP وDialogflow لحل مشاكل المستخدمين بسرعة وذكاء.
+
+---
+
+## 🌟 Highlights
+
+- 🏅 Top 10% in NTI ML Competition 2024
+- 👨‍💻 +15 Open Source Contributions
+- 🚩 ICPC ECPC 2024 – Honorable Mention
+- 🎤 Speaker at "AI Trends 2024" Meetup
+
+---
+
+## 💬 Recommendation
+
+> *"Omar is one of the most dedicated and creative students I've ever mentored."*  
+> — Dr. Ahmed El-Gohary, Professor of AI
+
+---
+
+## 🎲 Fun Fact
+
+- I solve a Rubik's cube in under 30 seconds!
+- أؤمن أن كل سطر كود ممكن يغيّر العالم للأفضل ✨
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarMostafa7&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarMostafa7&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
