@@ -200,7 +200,7 @@ I'm **Omar Mostafa Abdsttar Ali**, a Data Science and software engineering candi
 
 | Program | Provider | Duration | Date | Details |
 |:--|:--|:--|:--|:--|
-| 🥇 **Digital Egypt Pioneers Program (DEPI)** — AI & Data Science, Data Scientist | DEPI | — | Nov 2025 – Jul 2026 | Completed the program and achieved its core learning outcomes |
+| 🥇 **Digital Egypt Pioneers Program (DEPI)** — AI & Data Science, Data Scientist | DEPI | 200 hours | Nov 2025 – Jul 2026 | Completed the program and achieved its core learning outcomes |
 | 📊 **Big Data Analysis** | NTI / ITIDA | 120 hours | 05–30 Jul 2026 | 90 technical hours + 30 freelancing hours · Score: **85%** |
 | 🤖 **Machine Learning Program** | NTI | 120 hours | 2025 | Supervised learning, preprocessing, model evaluation · Score: **90.5%** |
 | 🧠 **Artificial Intelligence Training** | ITI | 72 hours | 2025 | Probability, statistics, linear algebra, neural-network foundations; practical AI and deep-learning models on real datasets |
