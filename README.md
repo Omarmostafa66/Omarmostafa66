@@ -79,7 +79,7 @@ I'm **Omar Mostafa**, a Data Science student at **Helwan National University**, 
 
 ## 🚀 Featured Projects
 
-### 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning & Full-Stack
 
 <table>
   <tr>
