@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Location-Cairo%2C_Egypt-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Cairo, Egypt" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Omarmostafa66&style=for-the-badge&color=2C9AB7&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
