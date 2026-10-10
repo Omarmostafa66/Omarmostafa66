@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Omar%20Mostafa&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%7C%20AI%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=18" width="100%" alt="Omar Mostafa profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Omar%20Mostafa&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%7C%20AI%20%2F%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=58&descSize=17" width="100%" alt="Omar Mostafa profile header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2C9AB7&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Omar+Mostafa;Data+Science+%26+AI+Enthusiast+%F0%9F%A7%A0;Machine+Learning+%26+Big+Data+%F0%9F%93%8A;Full-Stack+Software+Development+%F0%9F%92%BB;Turning+Data+Into+Insights+%26+Solutions+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2C9AB7&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Omar+Mostafa;Data+Science+%26+AI+Enthusiast+%F0%9F%A7%A0;Machine+Learning+%26+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Full-Stack+Software+Development+%F0%9F%92%BB;Turning+Data+Into+Insights+%26+Solutions+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
@@ -18,6 +18,7 @@
   <a href="mailto:omarmostafaabdsttar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Cairo%2C_Egypt-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Cairo, Egypt" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Omarmostafa66&style=for-the-badge&color=2C9AB7&label=PROFILE+VIEWS" alt="Profile views" />
@@ -32,14 +33,14 @@
 <tr>
 <td width="62%" valign="top">
 
-I'm **Omar Mostafa**, a Data Science student at **Helwan National University**, interested in building practical solutions across Data Science, Artificial Intelligence, Machine Learning, Big Data, and Full-Stack Development.
+I'm **Omar Mostafa Abdsttar Ali**, a Data Science and software engineering candidate with hands-on project experience in **machine learning, computer vision, data preprocessing, and full-stack application development**.
 
-- 🎓 Studying Data Science at the **Faculty of Computer Science & AI**
-- 🤖 Interested in **Machine Learning, Computer Vision**, and data-driven applications
-- 📊 Working with **data analysis, predictive modeling**, and visualization
-- 🌐 Experienced with **Full-Stack** development using Angular, Spring Boot, and PostgreSQL
-- 🏢 Completed a **Full-Stack Software Engineering internship** at NTG Clarity Networks
-- 🏆 **Honorable Mention** — 2024 ICPC ECPC Qualifications
+- 🎓 Data Science major at the **Faculty of Computer Science & AI**, Helwan National University (2023–2027)
+- 🤖 Built a **CNN face-mask detector (97%+ accuracy)** and a **Random Forest heart-failure model (85% accuracy)**
+- 💬 Developed a **full-stack AI customer support platform** powered by **Gemini AI**, with intelligent chat, ticket escalation, and SLA tracking
+- 🌐 Developed **GovFlow Tracker** with Angular, Spring Boot, and PostgreSQL during my internship at NTG Clarity Networks
+- 📊 Trained in **Machine Learning, AI, Big Data Analysis**, and the **Digital Egypt Pioneers Program (Data Scientist track)**
+- 🏆 **Honorable Mention** — ICPC ECPC Qualifications 2024
 - 🚀 Focused on building projects that connect technical knowledge with real-world problems
 
 </td>
@@ -53,6 +54,19 @@ I'm **Omar Mostafa**, a Data Science student at **Helwan National University**, 
 
 ---
 
+## ⚡ At a Glance
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Face_Mask_Detection-97%25%2B_Accuracy-2C9AB7?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Face mask detection accuracy" />
+<img src="https://img.shields.io/badge/Heart_Failure_Prediction-85%25_Accuracy-2C5364?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Heart failure prediction accuracy" />
+<img src="https://img.shields.io/badge/ML_Program_NTI-90.5%25-203A43?style=for-the-badge" alt="ML program score" />
+<img src="https://img.shields.io/badge/Big_Data_NTI%2FITIDA-85%25-0F2027?style=for-the-badge" alt="Big data score" />
+
+</div>
+
+---
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -60,26 +74,55 @@ I'm **Omar Mostafa**, a Data Science student at **Helwan National University**, 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,postgres&perline=5" alt="Languages" />
 
-### Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,opencv&perline=5" alt="Data Science and ML" />
+### Machine Learning, Data Science & Computer Vision
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,opencv&perline=5" alt="ML and Data Science" />
+<br/>
+<sub>Data preprocessing · Feature engineering · Model evaluation · Random Forest · CNNs · Real-time detection demos</sub>
 
-### Full-Stack Development & Databases
-<img src="https://skillicons.dev/icons?i=angular,spring,django,flask,postgres,mysql&perline=6" alt="Full-Stack and Databases" />
+### Backend, Frontend & Databases
+<img src="https://skillicons.dev/icons?i=spring,angular,flask,django,postgres,mysql&perline=6" alt="Backend, Frontend and Databases" />
+<br/>
+<sub>REST APIs · JWT authentication · Role-based access control · MVC · REST architecture</sub>
 
 ### Tools & Practices
 <img src="https://skillicons.dev/icons?i=git,github&perline=2" alt="Tools" />
 <br/>
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Agile-Scrum-2C5364?style=for-the-badge" alt="Agile Scrum" />
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge" alt="Gradio" />
+<img src="https://img.shields.io/badge/UML-2C5364?style=for-the-badge" alt="UML" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-203A43?style=for-the-badge" alt="DSA" />
+<img src="https://img.shields.io/badge/Agile-Scrum-0F2027?style=for-the-badge" alt="Agile Scrum" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-### 🤖 AI & Machine Learning & Full-Stack
+### 🏢 Full-Stack Software Engineer Intern — NTG Clarity Networks
+📅 **July 2025 – September 2025**
+
+- 🧩 Developed **GovFlow Tracker**, a full-stack system using **Angular, Spring Boot, and PostgreSQL**
+- 🔐 Built **REST APIs** with **JWT authentication** and **role-based access control**
+- 📊 Implemented **dashboards** and **automated task-assignment workflows**
+- 🤝 Collaborated in an **Agile/Scrum** team using Git, sprint planning, and code reviews
+- 🏗️ Applied **clean architecture** principles and modular design
+
+---
+
+## 🚀 Selected Projects
+
+### 🌟 Highlights
+
+| Project | Domain | Date | Key Results |
+|:--|:--|:--|:--|
+| 🤖 **[AI Customer Support Platform](https://github.com/Omarmostafa66/AI-Customer-Support-Platform)** | Full-Stack AI System | 2026 | Full-stack AI-powered support platform with **intelligent chat**, **automated ticket escalation**, **AI-driven ticket analysis**, and **SLA tracking**. Built with **Java, Spring Boot, Angular, PostgreSQL, and Gemini AI**, with **JWT authentication**, **role-based access control**, and **persistent AI conversations** |
+| 😷 **Face Mask Detection** | Computer Vision | Sep 2025 | CNN built with **TensorFlow & OpenCV**, **97%+ accuracy**, real-time demo deployed with **Streamlit & Gradio** |
+| 🏛️ **GovFlow Tracker** | Full-Stack System | Jul–Sep 2025 | **Angular + Spring Boot + PostgreSQL**, JWT auth, RBAC, dashboards, automated workflows |
+| ❤️ **Heart Failure Prediction** | Machine Learning | Jul 2025 | Preprocessing, feature engineering, and evaluation on clinical data, **85% accuracy** with **Random Forest** and explainable insights |
+
+### 🤖 AI & Machine Learning
 
 <table>
   <tr>
@@ -101,13 +144,13 @@ I'm **Omar Mostafa**, a Data Science student at **Helwan National University**, 
       <a href="https://github.com/Omarmostafa66/heart-Failure-prediction">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omarmostafa66&repo=heart-Failure-prediction&theme=tokyonight&hide_border=true&border_radius=12" alt="Heart Failure Prediction" />
       </a>
-      <br/><sub><b>Focus:</b> Data Preprocessing · Feature Engineering · Classification</sub>
+      <br/><sub><b>Focus:</b> Data Preprocessing · Feature Engineering · Random Forest</sub>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Omarmostafa66/face-mask-detector">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omarmostafa66&repo=face-mask-detector&theme=tokyonight&hide_border=true&border_radius=12" alt="Face Mask Detector" />
       </a>
-      <br/><sub><b>Focus:</b> Computer Vision · Deep Learning · Image Processing</sub>
+      <br/><sub><b>Focus:</b> Computer Vision · CNN · Real-Time Detection</sub>
     </td>
   </tr>
 </table>
@@ -147,35 +190,39 @@ I'm **Omar Mostafa**, a Data Science student at **Helwan National University**, 
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Education
 
-### 🏢 Full-Stack Software Engineer Intern — NTG Clarity Networks
-📅 **July 2025 – September 2025**
-
-- 🧩 Contributed to the development of **GovFlow Tracker**
-- ⚙️ Worked with **Angular, Spring Boot, and PostgreSQL**
-- 🔐 Built **REST APIs**, **JWT authentication**, and **role-based access control**
-- 🤝 Collaborated using **Git** and **Agile/Scrum** practices
+**Helwan National University** — Faculty of Computer Science & AI  
+📘 Data Science Major · **2023 – 2027**
 
 ---
 
-## 🎓 Training & Certifications
+## 📜 Training & Certifications
 
-| Program | Provider | Details |
-|:--|:--|:--|
-| 🥇 **AI & Data Science — Data Scientist Track** | Digital Egypt Pioneers Initiative (DEPI) | Training program |
-| 📊 **Big Data Analysis** | NTI / ITIDA | 120 hours · Score: **85%** |
-| 🤖 **Machine Learning Program** | NTI | 120 hours · Score: **90.5%** |
-| 🧠 **Artificial Intelligence Training** | ITI | 72 hours |
-| 🌐 **Full-Stack Web Development Using Python** | ITI | 120 hours |
-| 💼 **ITIDA Freelance Program** | ITIDA Gigs | 3 months |
+| Program | Provider | Duration | Date | Details |
+|:--|:--|:--|:--|:--|
+| 🥇 **Digital Egypt Pioneers Program (DEPI)** — AI & Data Science, Data Scientist | DEPI | — | Nov 2025 – Jul 2026 | Completed the program and achieved its core learning outcomes |
+| 📊 **Big Data Analysis** | NTI / ITIDA | 120 hours | 05–30 Jul 2026 | 90 technical hours + 30 freelancing hours · Score: **85%** |
+| 🤖 **Machine Learning Program** | NTI | 120 hours | 2025 | Supervised learning, preprocessing, model evaluation · Score: **90.5%** |
+| 🧠 **Artificial Intelligence Training** | ITI | 72 hours | 2025 | Probability, statistics, linear algebra, neural-network foundations; practical AI and deep-learning models on real datasets |
+| 💼 **ITIDA Freelance Program** | ITIDA Gigs | 3 months | 2025 | Freelancing workflows, client communication, and project delivery |
+| 🌐 **Full-Stack Web Development using Python** | ITI | 120 hours | 2024 | Flask and Django with PostgreSQL; MVC and REST architecture |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 **Honorable Mention** — 2024 ICPC ECPC Qualifications
+- 🥉 **Honorable Mention** — ICPC ECPC Qualifications 2024, solving algorithmic challenges under strict time limits
 - 💡 Hands-on project experience across **machine learning, computer vision, big data analytics, and full-stack development**
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|:--|:--|
+| 🇪🇬 **Arabic** | Native |
+| 🇬🇧 **English** | Reading & Writing: Excellent · Listening & Speaking: Very Good |
 
 ---
 
@@ -196,7 +243,7 @@ I'm **Omar Mostafa**, a Data Science student at **Helwan National University**, 
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities and collaborations related to **Data Science, Machine Learning, AI, Big Data, and Full-Stack Development**.
+I'm interested in opportunities and collaborations related to **Data Science, Machine Learning, AI, Computer Vision, Big Data, and Full-Stack Development**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-mostafa-abdsttar">
